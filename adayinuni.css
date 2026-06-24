@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:orangered;
+    color: #333;
+}
+
+header {
+    background-color:lightblue;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.subtitle {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+section {
+    background:white;
+    margin: 15px auto;
+    padding: 15px;
+    width: 80%;
+    border-radius: 8px;
+    
+}
+
+h2 {
+    color:violet;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color:darkblue;
+    color: white;
+    margin-top: 20px;
+}
